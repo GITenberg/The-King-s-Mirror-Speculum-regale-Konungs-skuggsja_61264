@@ -1,5 +1,5 @@
 _repo: The-King-s-Mirror-Speculum-regale-Konungs-skuggsja_61264
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Larson, Laurence Marcellus
@@ -8,7 +8,12 @@ contributor:
     gutenberg_agent_id: '39730'
     url: http://www.gutenberg.org/2009/agents/39730
     wikipedia: https://en.wikipedia.org/wiki/Laurence_M._Larson
+covers:
+- cover_type: archival
+  image_path: 61264-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61264#The-King-s-Mirror-Speculum-regale-Konungs-skuggsja
 gutenberg_issued: '2020-01-29'
 gutenberg_type: Text
 identifiers:
