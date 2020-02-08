@@ -1,0 +1,28 @@
+_repo: The-King-s-Mirror-Speculum-regale-Konungs-skuggsja_61264
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Larson, Laurence Marcellus
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '39730'
+    url: http://www.gutenberg.org/2009/agents/39730
+    wikipedia: https://en.wikipedia.org/wiki/Laurence_M._Larson
+description: ''
+gutenberg_issued: '2020-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Library of Scandinavian Literature
+subjects:
+- !lcsh 'Encyclopedias and dictionaries -- Early works to 1600'
+- !lcc 'PT'
+- !lcsh 'Education of princes'
+- !lcsh 'Scandinavia -- Civilization'
+- GITenberg
+title: The King's Mirror (Speculum regale-Konungs skuggsjá)
+url: http://www.gutenberg.org/ebooks/61264
